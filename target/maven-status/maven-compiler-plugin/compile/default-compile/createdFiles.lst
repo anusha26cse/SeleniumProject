@@ -1,0 +1,5 @@
+E2E\App.class
+resources\BaseClass.class
+PageObjects\RandomDates.class
+PageObjects\DatePick.class
+PageObjects\WebTables.class

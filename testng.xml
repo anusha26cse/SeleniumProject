@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="All Test Suite">
+    <test name="Final Assighment">
+        <classes>
+            <class name="CucumberOptions.TestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>

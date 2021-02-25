@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-25T21:07:57 IST" name="All Test Suite" finished-at="2021-02-25T21:08:45 IST" duration-ms="48149">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@13c10b87]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-02-25T21:07:57 IST" name="Final Assighment" finished-at="2021-02-25T21:08:45 IST" duration-ms="48149">
+      <class name="CucumberOptions.TestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:CucumberOptions.TestRunner@13c10b87]" started-at="2021-02-25T21:07:57 IST" name="setUpClass" finished-at="2021-02-25T21:07:59 IST" duration-ms="1171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@13c10b87]" started-at="2021-02-25T21:07:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-25T21:07:59 IST" duration-ms="448" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Checking Weather Working Day or not"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Final Assignment]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@13c10b87]" started-at="2021-02-25T21:07:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-25T21:07:59 IST" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Arranging the Given string into Alphabetical Order"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Final Assignment]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@13c10b87]" started-at="2021-02-25T21:07:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-25T21:07:59 IST" duration-ms="301" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Ganerate Random Date within Specified Range"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Final Assignment]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@13c10b87]" started-at="2021-02-25T21:07:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-25T21:08:24 IST" duration-ms="24636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Select Given Date if it is current or future date"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Final Assignment]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@13c10b87]" started-at="2021-02-25T21:07:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-25T21:07:59 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Ganerate Random Date within Specified Range"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Final Assignment]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@13c10b87]" started-at="2021-02-25T21:08:24 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-25T21:08:45 IST" duration-ms="21433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Print All the values from WebTable"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Final Assignment]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:CucumberOptions.TestRunner@13c10b87]" started-at="2021-02-25T21:08:45 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-25T21:08:45 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Print First Given N Numbers By Replacing 5 Multiples with fizz and 7 Multiples Buzz and 5&7 common multiples with Fizzbuzz"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Final Assignment]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:CucumberOptions.TestRunner@13c10b87]" started-at="2021-02-25T21:08:45 IST" name="tearDownClass" finished-at="2021-02-25T21:08:45 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- CucumberOptions.TestRunner -->
+    </test> <!-- Final Assighment -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
